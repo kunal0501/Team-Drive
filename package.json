@@ -1,0 +1,15 @@
+{
+  "name": "team-drive",
+  "version": "1.0.0",
+  "description": "Projet for 7th semester",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0"
+  }
+}
